@@ -1,0 +1,31 @@
+{
+  "name": "class4",
+  "version": "1.0.0",
+  "description": "4th in class assessment",
+  "main": "index.js",
+  "scripts": {
+    "hello": "echo \"Oh hai dylan i want pizza\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPSC-1520/cpsc1520-in-class-4-dylanwozny.git"
+  },
+  "keywords": [
+    "carousal",
+    "pics",
+    "mountains"
+  ],
+  "author": "dylan wozny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CPSC-1520/cpsc1520-in-class-4-dylanwozny/issues"
+  },
+  "homepage": "https://github.com/CPSC-1520/cpsc1520-in-class-4-dylanwozny#readme",
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
